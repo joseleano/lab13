@@ -1,0 +1,24 @@
+inicio => equipo => click derecho => propiedades => configuracion avanzada del sistema => opciones avanzadas => variables de entorno => 
+
+en variables del sistema doble click a PATH:
+
+//  por seguridad copiar el texto 	que está en (valor de la variable) y pegarlo en un bloc de notas.   Guardarlo en un lugar seguro....si se pierde ese texto se daña el pc.
+
+valor de la variable    poner pegado ;  y pegar la ruta en donde está tools ; y pegar la ruta de plattform tools   --- ACEPTAR
+
+(las rutas de tools y platform tools no van a aparecer hasta que abra android sdk tools y en el sdk manager haya instalado los elementos en el boton install packages que se encuentra en la parte inferior derecha. )
+
+
+volver a variables de entorno en la ventana variables de sistema y crear una nueva
+
+crear java_home jdk y poner la ruta
+
+crear ant_home y poner la ruta
+
+
+
+
+
+---------------------------------------------------------
+
+SPI  = Single Page Interface   son las paginas o apps en las que se navega con solo una pagina que tiene todo el contenido y funciones
